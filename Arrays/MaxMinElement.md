@@ -1,0 +1,1 @@
+Given an array arr of N elements, find the maximum and minimum values present within the array.
